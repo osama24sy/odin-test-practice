@@ -1,0 +1,27 @@
+{
+  "name": "odin-test-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osama24sy/odin-test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osama24sy/odin-test-practice/issues"
+  },
+  "homepage": "https://github.com/osama24sy/odin-test-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.6",
+    "eslint": "^8.18.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^28.1.2"
+  }
+}
